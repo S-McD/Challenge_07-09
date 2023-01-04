@@ -6,6 +6,6 @@ def factorial(n)
     n -= 1
     end
     product
-  end
+end
   
   p factorial(5)
